@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923065093492",
+    "firebase_url": "https://iot-project-ecf15-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-project-ecf15",
+    "storage_bucket": "iot-project-ecf15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923065093492:android:19055f4104d2062f35f021",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923065093492-580188fe3pc3d71psor5eiotvoiri0lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzfU3v2OmVScpB1vp7gzAKDjc7I9xSYnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923065093492-580188fe3pc3d71psor5eiotvoiri0lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
